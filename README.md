@@ -12,7 +12,7 @@ git branch -M main
   
 git remote add origin https://github.com/scrum-tds/repositorio-compartilhado.git
   
-*** git pull --rebase origin main ***
+***git pull --rebase origin main***
   
 git push -u origin main
 
