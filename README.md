@@ -1,4 +1,4 @@
-grupo quando forem adicionar no main escrevam esse comando antes do push: git pull --rebase origin main
+##grupo quando forem adicionar no main escrevam esse comando antes do push: git pull --rebase origin main
 
 passo a passo no terminal:
 
@@ -12,7 +12,7 @@ git branch -M main
   
 git remote add origin https://github.com/scrum-tds/repositorio-compartilhado.git
   
-### git pull --rebase origin main
+*** git pull --rebase origin main ***
   
 git push -u origin main
 
