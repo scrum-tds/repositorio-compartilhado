@@ -1,4 +1,4 @@
-#### Quando for adicionar no main escreva esse comando antes do push: git pull --rebase origin main
+#### Quando for adicionar no main, escreva esse comando antes do push: git pull --rebase origin main
 
 passo a passo no terminal:
 
