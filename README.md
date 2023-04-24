@@ -6,7 +6,7 @@ git init
 
 git add .
 
-git commit -m "adicionando arquivo: <<seu nome>>"
+git commit -m "adicionando arquivo: <seu<seu nome> nome>"
   
 git branch -M main
   
